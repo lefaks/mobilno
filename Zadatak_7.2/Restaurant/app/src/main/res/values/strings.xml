@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="logo_description">Restaurant logo</string>
+
+    <string-array name="categories">
+        <item>Bacili</item>
+        <item>Koki</item>
+        <item>Spirili</item>
+        <item>Kokobacili</item>
+    </string-array>
+</resources>
