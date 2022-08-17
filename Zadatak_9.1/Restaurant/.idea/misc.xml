@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projekti/Aspira/21-22/Zadatak_7.2/Restaurant/app/src/main/res/layout/activity_food_list.xml" value="0.3242753623188406" />
+        <entry key="..\:/Projekti/Aspira/21-22/Zadatak_7.2/Restaurant/app/src/main/res/layout/activity_main.xml" value="0.18571428571428572" />
+        <entry key="..\:/Projekti/Aspira/21-22/Zadatak_7.2/Restaurant/app/src/main/res/layout/activity_meal.xml" value="0.3242753623188406" />
+        <entry key="..\:/Projekti/Aspira/21-22/Zadatak_9.1/Restaurant/app/src/main/res/layout/activity_meal.xml" value="0.38858695652173914" />
+        <entry key="..\:/Users/kinde/Downloads/PredavanjeVjezba 9-20220810/Zadatak_9.1/Restaurant/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
